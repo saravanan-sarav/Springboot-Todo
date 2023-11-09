@@ -30,7 +30,7 @@ Screenshots:
  
 🔗 GET:
 -------
-![api-fetchAll](https://github.com/saravanan-sarav/Springboot-Todo/assets/145537699/4a0d5561-9a4d-4913-8840-7d991ff301b3)
+![api-fetchAll](https://github.com/saravanan-sarav/Springboot-Todo/assets/145537699/ad38dfdb-ef7c-430b-a01f-690e89b05145)
 
 🔗 GET with Id:
 ---------------
